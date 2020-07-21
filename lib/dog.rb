@@ -7,3 +7,4 @@ end
 end
 Fido = dog.new("Fido")
 Fido.name
+end 
