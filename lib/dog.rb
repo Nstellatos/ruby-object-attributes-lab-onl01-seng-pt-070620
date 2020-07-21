@@ -5,5 +5,5 @@ class Dog
   @name 
 end
 end
-name.name 
-end
+Fido = dog.new("Fido")
+Fido.name
